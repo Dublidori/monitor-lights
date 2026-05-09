@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Monitor Lights
+Comment=Adjust brightness for your connected displays
+Exec=__EXEC__
+Icon=video-display
+Terminal=false
+Categories=Settings;
+StartupNotify=true
