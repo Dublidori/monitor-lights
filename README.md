@@ -1,5 +1,7 @@
 # Monitor Lights
 
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/7147d3a7-6120-4605-85b8-93b68162fa1b" />
+
 Monitor Lights is a small GTK app for Ubuntu and other Linux desktops that lets you adjust the brightness of connected displays from a simple desktop window.
 
 It detects displays dynamically and picks the best available backend per screen:
