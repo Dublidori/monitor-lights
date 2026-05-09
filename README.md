@@ -65,15 +65,6 @@ cd monitor-lights
 cd monitor-lights
 ./uninstall.sh
 ```
-
-## Publishing notes
-
-Before publishing, consider:
-
-- adding screenshots
-- tagging a first release
-- packaging for `.deb` or Flatpak if you want easier distribution
-
 ## License
 
 MIT
